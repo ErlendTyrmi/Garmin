@@ -116,7 +116,7 @@
 <entry endPc="268436137" name="timeString" stackId="5" startPc="268435828"/>
 <entry endPc="268436137" name="view" stackId="6" startPc="268435828"/>
 <entry arg="true" endPc="268436340" name="dc" stackId="1" startPc="268436139"/>
-<entry endPc="268436340" name="rez_cmp_local_custom_drawable_14953094461791258282" stackId="2" startPc="268436151"/>
+<entry endPc="268436340" name="rez_cmp_local_custom_drawable_52550129197564325514" stackId="2" startPc="268436151"/>
 <entry endPc="268436340" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436151"/>
 </localVars>
 <annotations>

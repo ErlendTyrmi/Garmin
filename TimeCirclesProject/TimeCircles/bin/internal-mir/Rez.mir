@@ -43,10 +43,10 @@ module Rez {
 C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_source_Rez_mcgen_19_73_start:
 [ "C:\source\Privat\Garmin\TimeCirclesProject\TimeCircles\bin\gen\006-B3113-00\source\Rez.mcgen" 20 12 ]
             [ "C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_source_Rez_mcgen_19_73_start" "C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_source_Rez_mcgen_19_73_stop" ]
-            %rez_cmp_local_custom_drawable_14953094461791258282.1 = local;
+            %rez_cmp_local_custom_drawable_52550129197564325514.1 = local;
             %tmp.4 = getv ? :Background;
             %tmp.1 = newc %tmp.4 ();
-            lputv %rez_cmp_local_custom_drawable_14953094461791258282.1 %tmp.1;
+            lputv %rez_cmp_local_custom_drawable_52550129197564325514.1 %tmp.1;
 [ "C:\source\Privat\Garmin\TimeCirclesProject\TimeCircles\bin\gen\006-B3113-00\source\Rez.mcgen" 22 12 ]
             [ "C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_source_Rez_mcgen_19_73_start" "C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_source_Rez_mcgen_19_73_stop" ]
             %rez_cmp_local_text_TimeLabel.2 = local;
@@ -94,7 +94,7 @@ C_source_Privat_Garmin_TimeCirclesProject_TimeCircles_bin_gen_006_B3113_00_sourc
             lputv %rez_cmp_local_text_TimeLabel.2 %tmp.5;
 [ "C:\source\Privat\Garmin\TimeCirclesProject\TimeCircles\bin\gen\006-B3113-00\source\Rez.mcgen" 24 12 ]
             %tmp.53 = newa Array<WatchUi.Drawable> 2;
-            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_14953094461791258282.1;
+            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_52550129197564325514.1;
             %tmp.56 = dup %tmp.53;
             %tmp.57 = aputv %tmp.56 0 %tmp.55;
             %tmp.59 = lgetv %rez_cmp_local_text_TimeLabel.2;
